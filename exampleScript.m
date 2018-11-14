@@ -1,7 +1,6 @@
 clear
 %example script for git and github demo
 
-seed(
 
 nX = 1e3;
 nZ = 2e3;
